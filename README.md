@@ -1,4 +1,4 @@
-# 🖱️ Neon AutoClicker Pro
+# 🖱️ AutoClicker
 
 ![C#](https://img.shields.io/badge/Language-C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![WPF](https://img.shields.io/badge/Framework-WPF-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)

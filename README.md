@@ -41,7 +41,7 @@
 
 Программа портативна и не требует установки.
 
-1.  Перейдите в раздел [Releases](https://www.google.com/search?q=../../releases) и скачайте последнюю версию `.exe` файла.
+1.  Перейдите в раздел [Releases](https://github.com/ZerioCommand/AutoClicker/releases) и скачайте последнюю версию `.exe` файла.
 2.  Запустите `AutoClicker.exe`.
 3.  *(Опционально)* Для установки пользовательских тем создайте папку `Themes` рядом с исполняемым файлом и поместите туда XAML-файлы (одна готовая тема уже включена в архив).
 
@@ -94,6 +94,6 @@ Beyond standard rapid-clicking, it supports full macro recording, coordinate que
 
 The application is fully portable.
 
-1.  Go to the [Releases](https://www.google.com/search?q=../../releases) section and download the latest `.exe` file.
+1.  Go to the [Releases](https://github.com/ZerioCommand/AutoClicker/releases) section and download the latest `.exe` file.
 2.  Run `AutoClicker.exe`.
 3.  *(Optional)* To install custom themes, create a `Themes` folder next to the executable and place your `.xaml` files inside (one theme is included by default).

@@ -1,6 +1,10 @@
 # 🖱️ AutoClicker
 
 [ 🇬🇧 English version below ]
+<img width="1920" height="1080" alt="{9E4A4C10-5C01-47F2-8AE4-3DA89678A15F}" src="https://github.com/user-attachments/assets/061a54bd-b971-47c9-b60c-76b8a816b60f" />
+<img width="1920" height="1080" alt="{E0D646F3-55BE-4681-A83A-F3248DA59C23}" src="https://github.com/user-attachments/assets/357be37d-508a-4366-be00-2aa51649ce9c" />
+<img width="1920" height="1080" alt="{67C77069-5D27-4F46-9F0D-B81A25ED6942}" src="https://github.com/user-attachments/assets/0d2df462-99b2-4fde-a9f2-af18e87b2158" />
+
 
 **AutoClicker** — современный, настраиваемый и скрытный инструмент для автоматизации рутинных задач и гейминга.
 
